@@ -1,0 +1,5 @@
+@group(2) @binding(0)
+var textures: array<texture_2d<f32>,16 >;
+
+@group(2) @binding(1)
+var samplers: array<sampler, 16>;
